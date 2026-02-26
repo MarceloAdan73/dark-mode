@@ -6,7 +6,7 @@ User preference is saved using **localStorage** so the chosen theme persists acr
 ---
 
 ## 🚀 Live demo
-👉 [View the project on GitHub Pages](https://marceloadan73.github.io/Dark-Mode-Page/)
+👉 [View the project on GitHub Pages](https://marceloadan73.github.io/dark-mode/)
 
 ---
 
